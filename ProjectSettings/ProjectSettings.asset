@@ -119,14 +119,14 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleIdentifier: com.misplacedminds.lifeline
-  bundleVersion: 1.0
+  bundleVersion: 2.0
   preloadedAssets: []
   metroInputSource: 0
   m_HolographicPauseOnTrackingLoss: 1
   xboxOneDisableKinectGpuReservation: 0
   protectGraphicsMemory: 0
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 11
+  AndroidMinSdkVersion: 16
   AndroidPreferredInstallLocation: 0
   aotOptions: 
   apiCompatibilityLevel: 2
